@@ -8,8 +8,6 @@ A simple machine learning project to predict loan approval status based on appli
 - Interactive UI built with Streamlit
 
 ##  Technologies & Tools
-
-###  Data & ML
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
